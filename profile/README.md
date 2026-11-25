@@ -7,20 +7,27 @@ build useful things in the open. We bring together independent projects that
 are understandable, usable, and ready for collaboration—not just collections
 of code.
 
-[Browse projects](https://github.com/aiscihub-oss/community/blob/main/PROJECTS.md)
+[Project gallery](https://aiscihub-oss.github.io/community/)
+· [Markdown catalog](https://github.com/aiscihub-oss/community/blob/main/PROJECTS.md)
 · [Submission process](https://github.com/aiscihub-oss/community/blob/main/CONTRIBUTING.md#submit-a-project)
 · [Contribute](https://github.com/aiscihub-oss/community/blob/main/CONTRIBUTING.md)
 
-## Launch projects
+## Launch project gallery
 
-| Project | Focus |
+| [CookieGuard AI](https://github.com/aiscihub/cookieguard-ai) | [BenefitStep](https://github.com/aiscihub/benefitstep) |
 | --- | --- |
-| [CookieGuard AI](https://github.com/aiscihub/cookieguard-ai) | Local authentication-cookie security checks for AI browser agents, browser extensions, and CI. |
-| [BenefitStep](https://github.com/aiscihub/benefitstep) | Local preparation and review of unsigned California public-benefit application drafts. |
-| [PocketStop](https://github.com/aiscihub/PocketStop) | Risk-aware early-stopping and reproducibility tools for computational molecular-dynamics trajectories. |
+| [![CookieGuard AI project preview](https://raw.githubusercontent.com/aiscihub-oss/community/main/docs/assets/projects/cookieguard-ai.png)](https://github.com/aiscihub/cookieguard-ai) | [![BenefitStep project preview](https://raw.githubusercontent.com/aiscihub-oss/community/main/docs/assets/projects/benefitstep.png)](https://github.com/aiscihub/benefitstep) |
+| Developer tools & security | Civic tech & accessibility |
+| Local authentication-cookie security checks for AI browser agents, browser extensions, and CI. | Local preparation and review of unsigned California public-benefit application drafts. |
+
+| [PocketStop](https://github.com/aiscihub/PocketStop) | [AirWater AI](https://github.com/aiscihub/airwater_app) |
+| --- | --- |
+| [![PocketStop project illustration](https://raw.githubusercontent.com/aiscihub-oss/community/main/docs/assets/projects/pocketstop.png)](https://github.com/aiscihub/PocketStop) | <a href="https://github.com/aiscihub/airwater_app"><img src="https://raw.githubusercontent.com/aiscihub-oss/community/main/docs/assets/projects/airwater-ai.png" alt="AirWater AI project logo" width="170"></a> |
+| Scientific computing & data | Scientific computing & data |
+| Risk-aware early-stopping and reproducibility tools for computational molecular-dynamics trajectories. | Climate-aware research screening of materials for atmospheric water harvesting. |
 
 Each project lives in its original public repository. See the
-[full catalog](https://github.com/aiscihub-oss/community/blob/main/PROJECTS.md)
+[interactive project gallery](https://aiscihub-oss.github.io/community/)
 for licenses, languages, releases, and contribution links.
 
 ## What we build
